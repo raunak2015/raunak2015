@@ -52,9 +52,9 @@
 
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak2015&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp"/>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/right.webp"/>
 </p>
 
 #
@@ -87,20 +87,20 @@
 <div align="center">
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunak2015&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunak2015&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunak2015&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raunak2015&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunak2015&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raunak2015&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunak2015&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunak2015&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raunak2015&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raunak2015&theme=github_dark&utcOffset=8)
 
 
 </div>
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
+  <img src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/GIF/Handshake.gif" height="25px"/>
 </h1>
 
 <p align="center">
@@ -142,4 +142,4 @@
 
 #
 
-![footer](WEBP/footer.webp)
+![footer](https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/footer.webp)
