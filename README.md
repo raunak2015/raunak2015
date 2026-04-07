@@ -105,16 +105,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/raunak-shahu-9308a83a1/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/raunak2015" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@projectwithraunak" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://x.com/RaunakS68078" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
 
@@ -126,7 +126,7 @@
 
   
   <a href="https://leetcode.com/u/yKCO1iAfs8/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
