@@ -28,7 +28,6 @@
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=raunak2015&style=flat&color=blue"/> •   
-<!--   <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/raunak2015?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/raunak2015?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
 </p>
@@ -45,12 +44,6 @@
 </p>
 
 #
-
-
-
-
-
-
 <br/>
 
 #
