@@ -4,10 +4,11 @@
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%F0%9F%92%BB;Three.js+Explorer+%F0%9F%8C%8C;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
  
-### 👨‍💻 Frontend Developer · Full Stack Learner · Builder
+### 👨‍💻 Frontend Developer · JavaScript Builder · Full Stack Learner
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-shahu-9308a83a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunak2015)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RaunakS68078)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@projectwithraunak)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yKCO1iAfs8/)
 
