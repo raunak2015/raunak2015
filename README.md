@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raunak%20Shahu&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20Builder&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raunak%20Shahu&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20Tailwind%20CSS&descAlignY=60&descColor=a0aec0" width="100%"/>
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%F0%9F%92%BB;Three.js+Explorer+%F0%9F%8C%8C;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-
-### 👨‍💻 Frontend Developer · JavaScript Builder · Full Stack Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Tailwind+CSS+%F0%9F%92%BB;Learning+Node.js+and+MongoDB+%F0%9F%8C%8C;Building+clean%2C+user-focused+apps+%F0%9F%94%A5" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=raunak2015&color=blue)
 
@@ -14,19 +12,18 @@
 
 ## 🧠 About Me
 
-```python
-class RaunakShahu:
-    def __init__(self):
-        self.name        = "Raunak Shahu"
-        self.role        = "Frontend Developer"
-        self.location    = "India 🇮🇳"
-        self.passions    = ["Web Development", "3D Experiences", "Open Source"]
-        self.stack       = ["React", "Node.js", "MongoDB", "Three.js", "Tailwind CSS"]
-        self.currently   = "Building web projects and leveling up in full-stack development"
+I am a **Frontend Developer** specializing in **React, JavaScript, and Tailwind CSS**. Currently, I am expanding my skills by **learning Node.js and MongoDB**. My passion lies in **building clean, user-focused web apps** that provide seamless experiences.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together 🚀")
-```
+- 🔭 I’m currently working on building **clean, user-focused web applications**.
+- 📖 I’m currently **learning Node.js and MongoDB** to become a proficient Full-Stack Developer.
+- 💬 Ask me about **React, JavaScript, or Tailwind CSS**.
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive designs.
+
+---
+
+## 🚀 Recent Highlights
+Recently, I developed **SkillPath AI**, an AI-powered career development platform, as part of Team CodeX for the CodeForge Hackathon.
+
 
 ---
 
@@ -112,14 +109,8 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-## 🌱 Currently
 
-- 🔭 Working on **web development projects**
-- 📖 Learning **full-stack development**
-- 🧪 Exploring **Three.js and interactive UI experiences**
-- 🏆 Practicing consistently on **LeetCode**
-
----
+<div align="center">
 
 ### ⭐ If you like my work, consider starring my repos - it means a lot!
 
