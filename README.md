@@ -92,9 +92,9 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ---
 
 <p align="center">
-    <img height="150" width="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/left.webp"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak2015&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/right.webp"/>
+  <img height="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/left.webp" align="middle"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak2015&theme=dark&hide_border=true" align="middle"/>
+  <img height="150" src="https://raw.githubusercontent.com/devisingh2007/devisingh2007/master/WEBP/right.webp" align="middle"/>
 </p>
 
 ---
